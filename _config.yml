@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#C8D8B0'
+    - '#087050'
+    - '#98A860'
+    - '#08A890'
+    - '#000000'
+  brandStrength: 0.498873
+  lightness: 0.478009
+  rhythmicContrast: 0.228363
+  saturation: 0.294232
+cta: {}
+layout_spectrum: 0.784901
+name: riviera maya
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.198199
